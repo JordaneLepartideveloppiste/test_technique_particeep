@@ -4,8 +4,9 @@
 3. [Installation](#installation)
 3. [Usage](#usage)
 4. [Configuration](#configuration)
-5. [Bugs Identified](#bugs-identified)
-6. [FAQ](#faq)
+5. [Screen Capture](#screen-capture)
+6. [Bugs Identified](#bugs-identified)
+7. [FAQ](#faq)
 
 ### General Info
 *** 
@@ -44,7 +45,7 @@ npm start
 ***
 No configuration here, data from promise.
 
-### Screen capture
+### Screen Capture
 ***
 ![Screen](https://res.cloudinary.com/dzlah6r2w/image/upload/v1633630017/technical-tests/test_particeep_chwuej.png) 
 ### Bugs identified
