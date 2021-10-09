@@ -11,7 +11,7 @@ import { getMovies } from "./actions/movies.actions";
 
 //DEV TOOLS
 import { composeWithDevTools } from "redux-devtools-extension";
-import logger from "redux-logger";
+
 
 const store = createStore(
   rootReducer,

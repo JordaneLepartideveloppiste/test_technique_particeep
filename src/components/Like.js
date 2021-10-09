@@ -1,7 +1,6 @@
 
 import { useDispatch } from "react-redux";
 import { dislikeMovie, likeMovie, deleteMovie } from "../actions/movies.actions";
-import "../assets/styles/scss/Like.scss"
 import { useState } from "react";
 import like from '../assets/img/like.png'
 import like_hover from '../assets/img/like_hover.png'
